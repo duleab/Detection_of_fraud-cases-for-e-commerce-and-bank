@@ -108,9 +108,7 @@ As a data scientist at Adey Innovations Inc., this project focuses on:
 3. Run the analysis notebooks in order:
    - `01_data_exploration.ipynb`
    - `02_feature_engineering.ipynb`
-   - `03_model_training.ipynb`
-   - `04_model_evaluation.ipynb`
-   - `05_model_interpretation.ipynb`
+
 
 ## Expected Outcomes
 
@@ -119,13 +117,3 @@ As a data scientist at Adey Innovations Inc., this project focuses on:
 - Detailed model comparison and selection justification
 - Explainable AI insights for business stakeholders
 - Production-ready model deployment guidelines
-
-## Timeline
-
-- **Interim 1 (July 20, 2025)**: Data analysis and preprocessing
-- **Interim 2 (July 27, 2025)**: Model development and evaluation
-- **Final Submission (July 29, 2025)**: Complete project with documentation
-
-## Contact
-
-For questions or collaboration opportunities, please reach out to the development team at Adey Innovations Inc.
